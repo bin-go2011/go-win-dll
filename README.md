@@ -1,1 +1,1 @@
-# gowindll
+# go call windows dll
